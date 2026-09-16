@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+artifacts/*.pt
+artifacts/*.json
+artifacts/reports/
+artifacts/figures/
+artifacts/gradcam/
+data/
+.DS_Store
+
